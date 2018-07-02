@@ -1,3 +1,4 @@
+#This is the class to define the vehicles
 class Vehicle:
 
     def __init__(self, name, seats, plate):
